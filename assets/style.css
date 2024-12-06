@@ -46,6 +46,10 @@ a:hover {
   color: #5A51FE;
 }
 
+p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
 .button {
   display: flex;
   background: linear-gradient(65deg, #DA552F, #ea8e39);
@@ -94,7 +98,7 @@ a:hover {
 }
 
 h1, h2 {
-  font-family: "Heebo", sans-serif;
+  font-family: Roboto, "Heebo", sans-serif;
 }
 
 .container-desktop {
