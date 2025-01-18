@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/emerson/Github/dt-staging.github.io",
+	"sourceRoot": "/home/emerson/Github/daytempo.github.io",
 	"sources": [
 		"/home/emerson/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!stef!ma/hugo-fresh@v1.2.0/assets/style.sass",
 		"../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/jgthms/bulma@v0.0.0-20220508134905-3e00a8e6d0d0/bulma.sass",
