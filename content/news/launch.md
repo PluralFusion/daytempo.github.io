@@ -1,11 +1,10 @@
----
-title: "Launch"
-include_footer: true
-_build:
-  render: always
-  list: always
-  publishResources: true
----
++++
+title = 'DayTempo Launch'
+date = 2025-01-18T16:02:58-05:00
+showdate = true
+include_footer = true
+draft = false
++++
 
-# We're launching
-Stay tuned!
+# We're Launching Soon!
+Stay Tuned!

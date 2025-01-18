@@ -1,6 +1,7 @@
 +++
 title = 'DayTempo Application Data Privacy Policy'
 subtitle = ''
+include_footer = true
 date = 2024-12-05
 draft = false
 +++

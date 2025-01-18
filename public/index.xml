@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DayTempo</title>
-    <link>https://daytempo.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on DayTempo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2025 16:57:28 -0500</lastBuildDate>
-    <atom:link href="https://daytempo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jan 2025 16:02:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DayTempo Launch</title>
+      <link>http://localhost:1313/news/launch/</link>
+      <pubDate>Sat, 18 Jan 2025 16:02:58 -0500</pubDate>
+      <guid>http://localhost:1313/news/launch/</guid>
+      <description>We&amp;rsquo;re Launching Soon! Stay Tuned!</description>
+    </item>
     <item>
       <title>Roadmap</title>
-      <link>https://daytempo.com/roadmap/</link>
+      <link>http://localhost:1313/roadmap/</link>
       <pubDate>Fri, 17 Jan 2025 16:57:28 -0500</pubDate>
-      <guid>https://daytempo.com/roadmap/</guid>
+      <guid>http://localhost:1313/roadmap/</guid>
       <description>Coming Soon! </description>
     </item>
     <item>
-      <title>Guide</title>
-      <link>https://daytempo.com/guide/</link>
+      <title>User Guide</title>
+      <link>http://localhost:1313/guide/</link>
       <pubDate>Fri, 17 Jan 2025 16:56:04 -0500</pubDate>
-      <guid>https://daytempo.com/guide/</guid>
+      <guid>http://localhost:1313/guide/</guid>
       <description>Coming Soon! </description>
     </item>
     <item>
       <title>DayTempo Application Data Privacy Policy</title>
-      <link>https://daytempo.com/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://daytempo.com/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.&#xA;We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.&#xA;Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions.</description>
     </item>
     <item>
       <title></title>
-      <link>https://daytempo.com/support/</link>
+      <link>http://localhost:1313/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daytempo.com/support/</guid>
+      <guid>http://localhost:1313/support/</guid>
       <description>&lt;!DOCTYPE html&gt; DayTempo Support </description>
-    </item>
-    <item>
-      <title>Launch</title>
-      <link>https://daytempo.com/news/launch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daytempo.com/news/launch/</guid>
-      <description>We&amp;rsquo;re launching Stay tuned!</description>
     </item>
   </channel>
 </rss>

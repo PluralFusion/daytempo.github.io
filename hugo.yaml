@@ -68,8 +68,8 @@ params:
     url: /support
   - title: Privacy
     url: /privacy
-  - title: News
-    url: /news
+  #- title: News
+  #  url: /news
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -203,7 +203,7 @@ params:
         title: "Product"
         links:
         - text: Discover features
-          link: "#section2"
+          link: "/#section2"
         - text: Our roadmap
           link: /roadmap
       column2:
@@ -213,9 +213,9 @@ params:
           link: /guide
         - text: Support
           link: /support
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /news
+     #column3:
+     #  title: "Blog"
+     #  links:
+     #  - text: Latest news
+     #    link: /news
 
