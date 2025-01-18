@@ -1,7 +1,11 @@
-+++
-title = 'DayTempo Launch'
-date = 2025-01-17T16:50:01-05:00
-draft = false
-+++
-# We're Launching!
+---
+title: "Launch"
+include_footer: true
+_build:
+  render: always
+  list: always
+  publishResources: true
+---
+
+# We're launching
 Stay tuned!
