@@ -2,18 +2,21 @@ baseURL: https://daytempo.com
 languageCode: en-us
 title: DayTempo
 
-module:
+theme: hugo-fresh
+
+#module:
   # uncomment line below for local development of module
   # workspace: hugo.work
-  imports:
-    path: github.com/StefMa/hugo-fresh
+  #imports:
+  #  path: github.com/StefMa/hugo-fresh
+  #  disable: true
 
 
 # googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
 # Disables warnings
 disableKinds:
 - taxonomy
-- taxonomyTerm
+#- taxonomyTerm
 markup:
   goldmark:
     renderer:
@@ -26,6 +29,7 @@ params:
   description:
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
   # preloader: false
+  articlesPerRow: 1
   navbarlogo:
   # Logo (from static/images/___)
     image: logos/dtlogo.svg
@@ -34,7 +38,7 @@ params:
     # width: 112
     # height: 28
   font:
-    name: "Open Sans"
+    name: 'Nunito Sans'
     sizes: [400,600]
   hero:
     # Main hero title
@@ -47,6 +51,8 @@ params:
     buttonlink: "#section2"
     # Hero image (from static/images/___)
     image: daytempo-phonescreens.png
+    # image description (for ADA compliance)
+    imagealt: Daytempo User Interface Example
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
 
@@ -68,8 +74,8 @@ params:
     url: /support
   - title: Privacy
     url: /privacy
-  #- title: News
-  #  url: /news
+  - title: News
+    url: /news
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -138,7 +144,7 @@ params:
   #     url: /
   #     buttonText: Get started
   section2:
-    title: Support all aspects of your life
+    title: All-in-one Life Management
     subtitle: from your health to your household and more. . . 
     features:
     - title: Comprehensive Coaching
@@ -147,7 +153,7 @@ params:
       icon: dt-coach-notify.svg
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
-      icon: routines.svg
+      icon: daily3.png
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
       icon: explore-diag.png
@@ -218,4 +224,6 @@ params:
      #  links:
      #  - text: Latest news
      #    link: /news
+    copyright: "2025 PluralFusion, Inc. All rights reserved."
 
+      
