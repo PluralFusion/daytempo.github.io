@@ -2,6 +2,7 @@ baseURL: https://daytempo.com
 languageCode: en-us
 title: DayTempo
 
+# fork of hugo-fresh found at https://github.com/PluralFusion/freshaf (fresh as f*ck)
 theme: freshaf
 
 module:
@@ -52,7 +53,7 @@ params:
     # Hero image (from static/images/___)
     image: daytempo-phonescreens.png
     # image description (for ADA compliance)
-    imagealt: Daytempo User Interface Example
+    imagealt: "Daytempo User Interface Example"
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
 

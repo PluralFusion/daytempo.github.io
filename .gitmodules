@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+[submodule "themes/freshaf"]
+	path = themes/freshaf
+	url = https://github.com/PluralFusion/freshaf.git
+>>>>>>> 68b1dfc2b58429420be5926074f84261933d4294
 [submodule "themes/bulma"]
 	path = themes/bulma
 	url = https://github.com/jgthms/bulma.git
