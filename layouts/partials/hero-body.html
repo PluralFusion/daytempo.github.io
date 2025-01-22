@@ -5,6 +5,11 @@
 {{- $buttonLink := index $hero "buttonlink" }}
 {{- $image      := index $hero "image" }}
 {{- $imagealt   := index $hero "imagealt" }}
+{{- with index $hero "imagealt" -}}
+    {{- $imagealt = . -}}
+  {{- else -}}
+    {{- $imagealt = "Hero Image" -}}
+{{- end -}}
 <div class="hero-body-padding-small">
   <div class="container">
     <div class="columns is-vcentered">

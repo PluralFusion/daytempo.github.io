@@ -52,7 +52,7 @@ params:
     # Hero image (from static/images/___)
     image: daytempo-phonescreens.png
     # image description (for ADA compliance)
-    imagealt: Daytempo User Interface Example
+    #imagealt: Daytempo User Interface Example
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
 
