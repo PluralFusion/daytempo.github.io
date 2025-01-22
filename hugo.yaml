@@ -2,6 +2,7 @@ baseURL: https://daytempo.com
 languageCode: en-us
 title: DayTempo
 
+# fork of hugo-fresh found at https://github.com/PluralFusion/freshaf (fresh as f*ck)
 theme: freshaf
 
 #module:
