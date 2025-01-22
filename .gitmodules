@@ -1,6 +1,6 @@
 [submodule "themes/freshaf"]
 	path = themes/freshaf
-	url = https://github.io/PluralFusion/freshaf.git
+	url = https://github.com/PluralFusion/freshaf.git
 [submodule "themes/bulma"]
 	path = themes/bulma
 	url = https://github.com/jgthms/bulma.git
