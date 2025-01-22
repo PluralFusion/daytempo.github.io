@@ -2,7 +2,7 @@ baseURL: https://daytempo.com
 languageCode: en-us
 title: DayTempo
 
-theme: hugo-fresh
+theme: freshaf
 
 #module:
   # uncomment line below for local development of module
