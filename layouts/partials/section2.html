@@ -3,15 +3,14 @@
 {{- $subtitle := index $section2 "subtitle" }}
 {{- $features := index $section2 "features" }}
 <section class="section is-medium" id="section2">
-  <div class="container">
-    <div class="columns">
+  <div class="container-wrapper">
+    <div class="columns is-mobile">
       <div class="column is-centered-tablet-portrait">
         <h1 class="title section-title">{{ $title }}</h1>
         <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
         <div class="divider"></div>
       </div>
-      <div class="content-wrapper">
-      <div class="column mt-60">
+      <div class="column is-mobile mt-60">
         {{- range $features }}
         <article class="media icon-box">
           <figure class="media-left">
@@ -30,7 +29,6 @@
           </div>
         </article>
         {{- end }}
-      </div>
       </div>
     </div>
   </div>
