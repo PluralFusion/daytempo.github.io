@@ -152,12 +152,15 @@ params:
       text: Get gentle reminders and guidance for any recurring task or activity.
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: dt-coach-notify-250.png
+      #url: /coming-soon
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
       icon: daily-250.png
+      #url: /coming-soon
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
       icon: animated-explore-250.gif
+      url: /coming-soon
   # section3:
   #   title: One platform
   #   subtitle: To rule them all

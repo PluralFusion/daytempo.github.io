@@ -13,7 +13,14 @@
     {{- range $features }}
     <div class="columns is-vcentered is-centered">
       <div class="column is-5">
-        <h3 class="title is-4 is-title-reveal">{{ .title }}</h3>
+        {{ $titleContent := printf "<h3 class='title is-4 is-title-reveal'>%s</h3>" .title }}
+        {{ with .url }}
+          <a href="{{ . }}">
+          {{ $titleContent | safeHTML }}
+          </a>
+        {{ else }}
+          {{ $titleContent | safeHTML }}
+        {{ end }}
         <p class="subtitle is-5 is-muted">
           {{ .text | markdownify }}
         </p>
@@ -21,7 +28,14 @@
       <div class="column is-3">
         <figure class="media">
           <div class="box is-paddingless">
-            <img src="{{ printf "images/illustrations/icons/%s" .icon | relURL }}">
+            {{ $imgContent := printf "<img src='%s' />" (printf "images/illustrations/icons/%s" .icon | relURL) }}
+            {{ with .url }}
+            <a href="{{ . }}">
+              {{ $imgContent | safeHTML }}
+            </a>
+            {{ else }}
+            {{ $imgContent | safeHTML }}
+            {{ end }}
           </div>
         </figure>
       </div>
