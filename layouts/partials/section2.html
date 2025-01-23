@@ -8,9 +8,9 @@
     <div class="title">
       <h1 class="title is-3">{{ $title }}</h1>
       <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
-      <div class="divider"></div>
+      <div class="divider-long"></div>
     </div>
-       {{- range $features }}
+    {{- range $features }}
     <div class="columns is-vcentered is-centered">
       <div class="column is-5">
         <h3 class="title is-4 is-title-reveal">{{ .title }}</h3>
@@ -18,7 +18,7 @@
           {{ .text | markdownify }}
         </p>
       </div>
-      <div class="column is-3 is-one-third">
+      <div class="column is-3">
         <figure class="media">
           <div class="box is-paddingless">
             <img src="{{ printf "images/illustrations/icons/%s" .icon | relURL }}">
@@ -26,8 +26,6 @@
         </figure>
       </div>
     </div>
-  </div>
-    
     {{- end }}
-     
+  </div>
 </section>
