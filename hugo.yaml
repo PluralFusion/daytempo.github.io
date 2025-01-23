@@ -151,7 +151,7 @@ params:
     - title: Comprehensive Coaching
       text: Get gentle reminders and guidance for any recurring task or activity.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: dt-coach-notify-path-250.png
+      icon: dt-coach-notify-250.png
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
       icon: daily-250.png

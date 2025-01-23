@@ -3,23 +3,27 @@
 {{- $subtitle := index $section2 "subtitle" }}
 {{- $features := index $section2 "features" }}
 
-<section class="section is-medium" id="section2">
+<section class="section is-small" id="section2">
   <div class="container">
     <div class="title">
-      <h1 class="title is-3 ">{{ $title }}</h1>
-      <h3 class="subtitle is-4 is-muted">{{ $subtitle }}</h3>
+      <h1 class="title is-3">{{ $title }}</h1>
+      <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
       <div class="divider"></div>
     </div>
        {{- range $features }}
-    <div class="columns is-vcentered side-feature mt-50">
-      <div class="column is-5 is-offset-2">
-        <h3 class="title is-4 mb-10 is-title-reveal">{{ .title }}</h3>
+    <div class="columns is-vcentered is-centered">
+      <div class="column is-5">
+        <h3 class="title is-4 is-title-reveal">{{ .title }}</h3>
         <p class="subtitle is-5 is-muted">
           {{ .text | markdownify }}
         </p>
       </div>
-      <div class="column is-5"> 
-        <img src="{{ printf "images/illustrations/icons/%s" .icon | relURL }}">
+      <div class="column is-3 is-one-third">
+        <figure class="media">
+          <div class="box is-paddingless">
+            <img src="{{ printf "images/illustrations/icons/%s" .icon | relURL }}">
+          </div>
+        </figure>
       </div>
     </div>
   </div>
