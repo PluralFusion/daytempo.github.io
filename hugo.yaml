@@ -60,9 +60,9 @@ params:
     # Disable/Enable client Logos
     clientlogos:
      - logo: googleplay
-       url: https://play.google.com
+       url: /coming-soon
      - logo: appleappstore
-       url: https://www.apple.com/app-store/
+       url: /coming-soon
     # - logo: kromo
     #   url: https://github.com/StefMa/hugo-fresh
     # - logo: infinite
