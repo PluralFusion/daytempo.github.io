@@ -33,7 +33,7 @@ params:
   articlesPerRow: 1
   navbarlogo:
   # Logo (from static/images/___)
-    image: logos/dtlogo.svg
+    image: logos/dtlogo_path.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -126,8 +126,8 @@ params:
     #   - text: App settings
     #     url: /
   # section1:
-  #   title: Great power comes
-  #   subtitle: with great responsibility
+  #   title: All-in-one Life Management
+  #   subtitle: from your health to your household and more. . . 
   #   tiles:
   #   - title: Android
   #     icon: google_play
@@ -151,13 +151,13 @@ params:
     - title: Comprehensive Coaching
       text: Get gentle reminders and guidance for any recurring task or activity.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: dt-coach-notify.svg
+      icon: dt-coach-notify-path-250.png
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
-      icon: daily3.png
+      icon: daily-250.png
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
-      icon: pushup-clip_250.png
+      icon: animated-explore-250.gif
   # section3:
   #   title: One platform
   #   subtitle: To rule them all
