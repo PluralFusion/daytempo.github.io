@@ -60,7 +60,7 @@ params:
     # Disable/Enable client Logos
     clientlogos:
      - logo: googleplay
-       url: /coming-soon
+       url: https://play.google.com/store/apps/details?id=com.pluralfusion.daytempo&hl=en
      - logo: appleappstore
        url: /coming-soon
     # - logo: kromo
@@ -151,15 +151,15 @@ params:
     - title: Comprehensive Coaching
       text: Get gentle reminders and guidance for any recurring task or activity.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: dt-coach-notify-250.png
+      icon: coaching_512x512.png
       #url: /coming-soon
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
-      icon: daily-250.png
+      icon: routinebuilding_512x512.png
       #url: /coming-soon
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
-      icon: explore_489.png
+      icon: explorer_512x512.png
       url: /coming-soon
   # section3:
   #   title: One platform
@@ -214,8 +214,8 @@ params:
         links:
         - text: Discover features
           link: "/#section2"
-        - text: Our roadmap
-          link: /roadmap
+        #- text: Our roadmap
+        #  link: /roadmap
       column2:
         title: "Docs"
         links:
