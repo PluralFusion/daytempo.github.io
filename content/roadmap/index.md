@@ -15,4 +15,4 @@ draft = false
 
 ##### Larger size (901.6kB)
 Slightly crisper and easier to read/view on higher resolution displays
-<img src="/images/dt-hero_1264x1076.png"  style="max-width:1200px; width: 100%; height: auto;">
+<img src="/images/dt-hero_1264x1076.png" style="max-width:800px; width: 100%; height: auto;">
