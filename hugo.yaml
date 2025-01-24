@@ -159,7 +159,7 @@ params:
       #url: /coming-soon
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
-      icon: animated-explore-250.gif
+      icon: explore_489.png
       url: /coming-soon
   # section3:
   #   title: One platform

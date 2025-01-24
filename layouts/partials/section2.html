@@ -25,9 +25,9 @@
           {{ .text | markdownify }}
         </p>
       </div>
-      <div class="column is-3">
-        <figure class="media">
-          <div class="box is-paddingless">
+      <div class="column is-5">
+        <figure class="media is-centered">
+          <div class="image">
             {{ $imgContent := printf "<img src='%s' />" (printf "images/illustrations/icons/%s" .icon | relURL) }}
             {{ with .url }}
             <a href="{{ . }}">
