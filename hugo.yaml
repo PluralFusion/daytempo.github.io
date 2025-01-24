@@ -51,7 +51,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#section2"
     # Hero image (from static/images/___)
-    image: daytempo-phone-array-s.png
+    image: dt-hero_1264x1076.png
     # image description (for ADA compliance)
     imagealt: "Daytempo User Interface Example"
     # Footer logos (from static/images/logos/clients/*.svg)
