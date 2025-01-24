@@ -151,15 +151,15 @@ params:
     - title: Comprehensive Coaching
       text: Get gentle reminders and guidance for any recurring task or activity.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: coaching_512x512.png
+      icon: coaching_512x436.png
       #url: /coming-soon
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
-      icon: routinebuilding_512x512.png
+      icon: routinebuilding_412x450.png
       #url: /coming-soon
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
-      icon: explorer_512x512.png
+      icon: explorer_512x413.png
       url: /coming-soon
   # section3:
   #   title: One platform

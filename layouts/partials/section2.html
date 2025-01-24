@@ -25,8 +25,8 @@
           {{ .text | markdownify }}
         </p>
       </div>
-      <div class="column is-5">
-        <figure class="media is-centered">
+      <div class="column is-5 is-centered">
+        <figure class="media">
           <div class="image">
             {{ $imgContent := printf "<img src='%s'/>" (printf "images/illustrations/icons/%s" .icon | relURL) }}
             {{ with .url }}
