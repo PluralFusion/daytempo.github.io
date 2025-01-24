@@ -8025,9 +8025,8 @@ img.pushed-image {
   margin-top: -5vh; }
 
 .media.icon-box {
-  border-top: none !important; }
-  .media.icon-box .media-content .content p span {
-    display: block; }
+  border-top: none;
+  padding: 0; }
   .media.icon-box .media-content .content p .icon-box-title {
     color: #444F60;
     font-size: 1.2rem;
@@ -8068,9 +8067,9 @@ footer.footer-dark {
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 20px; }
+    /* margin-bottom: 10px; */ }
   footer.footer-dark .footer-column ul.link-list {
-    line-height: 40px;
+    /* line-height: 1.2rem; */
     font-size: 1.1rem; }
     footer.footer-dark .footer-column ul.link-list a {
       color: #98a9c3;
