@@ -230,4 +230,15 @@ params:
      #    link: /news
     copyright: "2025 PluralFusion, Inc. All rights reserved."
 
-      
+  # 404 page options
+  pagNotFound:
+    # option to specify the main picture of the sidebar
+    # 
+    image: /images/dt-404.png
+    # option to specify the title of the 404 page
+    title: Uh-Oh! Not Found.
+    title2: Life is Full of Surprises
+    # option to specify the subtitle of the 404 page
+    subtitle: Embrace the unexpected and discover new ways to manage your routines.
+    # option to specify the width of the image in the 404 page
+    imageWidth: 500px
