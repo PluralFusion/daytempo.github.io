@@ -30,6 +30,10 @@ github.com/PluralFusion/freshaf v1.2.1-0.20250125174215-71743d8dad3b h1:vHDH77ou
 github.com/PluralFusion/freshaf v1.2.1-0.20250125174215-71743d8dad3b/go.mod h1:Rvh7TCVgCury3PvJc9hMGuutNubN+pWm3ChfXd4c5pw=
 github.com/PluralFusion/freshaf v1.2.1-0.20250125174301-194cc7df4ee9 h1:7JHvGeBuhD3AP6Y6tAgILKx8cY3HhX9fIp3Kd4lL67E=
 github.com/PluralFusion/freshaf v1.2.1-0.20250125174301-194cc7df4ee9/go.mod h1:Rvh7TCVgCury3PvJc9hMGuutNubN+pWm3ChfXd4c5pw=
+github.com/PluralFusion/freshaf v1.2.1-0.20250130103050-058993f99797 h1:cmGTdSiiZ/KJ2OinFZ+77K2zOW0uOBRNMS+IekV5Qb4=
+github.com/PluralFusion/freshaf v1.2.1-0.20250130103050-058993f99797/go.mod h1:Rvh7TCVgCury3PvJc9hMGuutNubN+pWm3ChfXd4c5pw=
+github.com/PluralFusion/freshaf v1.2.1-0.20250130103540-6eaaf2865504 h1:yrAhTO24JkVmIE46QBTKjxB04klcmKxPBt3Y6wikFBM=
+github.com/PluralFusion/freshaf v1.2.1-0.20250130103540-6eaaf2865504/go.mod h1:Rvh7TCVgCury3PvJc9hMGuutNubN+pWm3ChfXd4c5pw=
 github.com/jgthms/bulma v0.0.0-20220508134905-3e00a8e6d0d0/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
 github.com/jgthms/bulma v0.0.0-20250117143207-96a2497155b8 h1:/EvFJy2MH2w2FGan3TSD0olAu8Skac1XSxWNz+n4SwM=
 github.com/jgthms/bulma v0.0.0-20250117143207-96a2497155b8/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
