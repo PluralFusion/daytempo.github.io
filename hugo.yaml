@@ -12,7 +12,13 @@ module:
     path: github.com/PluralFusion/freshaf
   #  disable: true
 
-
+minify:
+    # Enable minification for HTML, CSS, and JS
+    html: true
+    css: true
+    js: true
+    imgs: true
+    minifyOutput: true
 # googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
 # Disables warnings
 disableKinds:
@@ -154,15 +160,15 @@ params:
     - title: Comprehensive Coaching
       text: Get gentle reminders and guidance for any recurring task or activity.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: coaching_512x436.webp
+      icon: coaching_800x.webp
       #url: /coming-soon
     - title: Flexible Routine Building
       text: Create habits for personal health, home maintenance, work productivity, and more.
-      icon: routinebuilding_412x450.webp
+      icon: routinebuilding_800x.webp
       #url: /coming-soon
     - title: Prepackaged Activity Bundles
       text: Explore and choose pre-configured activity bundles for different aspects of your life to jumpstart your routines.
-      icon: explorer_512x413.webp
+      icon: explorer_800x.webp
       url: /coming-soon
   # section3:
   #   title: One platform
