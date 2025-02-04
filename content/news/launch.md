@@ -1,6 +1,6 @@
 +++
 title = 'DayTempo Launches All-in-One Life Management App'
-date = 2025-01-21T09:51:12-05:00
+date = 2025-02-04T08:12:12-05:00
 showdate = true
 include_footer = true
 draft = false
