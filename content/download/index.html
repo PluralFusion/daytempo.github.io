@@ -33,8 +33,8 @@
             if (getMobileOS() == "Windows Phone") {
                 window.location.href = "https://daytempo.com";
             }
-            if (!getMobileOS()) {
-                document.getElementById('not-mobile').innerHTML = "https://daytempo.com";
+            else if (!getMobileOS()) {
+                window.location.href = "https://daytempo.com";
             }
         };
     </script>
