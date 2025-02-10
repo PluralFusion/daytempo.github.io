@@ -42,15 +42,12 @@ Users can share their ideas for new features at [daytempo-ideas@daytempo.com](ma
 
 DayTempo is available for free download on both iOS and Android devices. To learn more, visit www.daytempo.com.
 
-<!--
-[Link to App Store Download]
-[Link to Google Play Download]
 
-[Website]
-[Social Media Links]
+Android: [Download for Android](https://play.google.com/store/apps/details?id=com.pluralfusion.daytempo&hl=en)
+iOS: [Download for iOS](https://apps.apple.com/us/app/daytempo/id6737768476)
 
-Contact:
-[Your Name]
-[Your Email Address] !-->
+Website: [daytempo.com](https://daytempo.com)
 
- 
+Contact: [PluralFusion](mailto: info@pluralfusion.com)
+
+
